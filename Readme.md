@@ -23,7 +23,7 @@
 <h1>This is the Circuit Diagram</h1>
 <div><img src="[[./images/circuit_digram](https://github.com/tejartr7/WebServer-using-ESP/blob/main/images/circuit_diagram.jpg)](https://github.com/tejartr7/WebServer-using-ESP/blob/main/images/circuit_diagram.jpg?raw=true)"></div>
 
-<div><img src="./images/esp"></div>
+<div><img src="images/esp"></div>
 
 
 <h1>DownLoad libraries</h1>
