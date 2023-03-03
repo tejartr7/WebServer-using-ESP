@@ -21,7 +21,7 @@
 
 
 <h1>This is the Circuit Diagram</h1>
-<div><img src="[./images/circuit_digram](https://github.com/tejartr7/WebServer-using-ESP/blob/main/images/circuit_diagram.jpg)"></div>
+<div><img src="[[./images/circuit_digram](https://github.com/tejartr7/WebServer-using-ESP/blob/main/images/circuit_diagram.jpg)](https://github.com/tejartr7/WebServer-using-ESP/blob/main/images/circuit_diagram.jpg?raw=true)"></div>
 
 <div><img src="./images/esp"></div>
 
