@@ -37,9 +37,9 @@
 <ul>
 <li>Download the libraries</li>
 <li>Learn how to get Started with esp</li>
-<li>Now copy this code and paste it in Arduino IDE<li>
+<li>Now copy this code and paste it in Arduino IDE</li>
 <li>Go to sketch then click on Add file and then select index.h</li>
 <li>Upload the code into esp</li>
-<li>Open the serial monitor on Arduino IDE<li>
+<li>Open the serial monitor on Arduino IDE</li>
 <li>You will get IP address of the WiFi just paste it in your browser!!Done!!! sensor data will be displayed there!!</li>
 </ul>
