@@ -21,9 +21,9 @@
 
 
 <h1>This is the Circuit Diagram</h1>
-<div><img src="/images/circuit_digram"></div>
+<div><img src="./images/circuit_digram"></div>
 
-<div><img src="/images/esp"></div>
+<div><img src="./images/esp"></div>
 
 
 <h1>DownLoad libraries</h1>
