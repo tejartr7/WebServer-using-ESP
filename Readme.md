@@ -12,26 +12,26 @@
 | 	Breadboard  | 1  |
 
 <a href="https://components101.com/sensors/dht11-temperature-sensor"><h2>Learn about DHT 11 sensor</h2></a>
-<br>
+
 <a href="https://www.electronicshub.org/getting-started-with-nodemcu/"><h2>Get started with ESP</h2></a>
-<br>
+
 <a href="https://www.adafruit.com/product/1603"><h2>Learn about BMP180 sensor</h2></a>
-<br>
+
 <a href="https://circuitdigest.com/microcontroller-projects/rain-detector-using-arduino"><h2>Learn about rain sensor</h2></a>
-<br>
+
 
 <h1>This is the Circuit Diagram</h1>
 <div><img src="/images/circuit_digram"></div>
-<br>
+
 <div><img src="/images/esp"></div>
-<br>
+
 
 <h1>DownLoad libraries</h1>
-<br>
+
 <a href="https://drive.google.com/file/d/1nImv_I2H8WENMSzJyR9h0i8xoXi2Nb2q/view"><h2>BMP 180 library</h2></a>
-<br>
+
 <a href="https://drive.google.com/file/d/1PZadxsEiJLc7PAz703sbui-0jyRSMpfM/view"><h2>DHT11 Library</h2></a>
-<br>
+
 
 <h1>Follow these steps:</h1>
 <ul>
