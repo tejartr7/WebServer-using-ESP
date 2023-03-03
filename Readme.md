@@ -23,7 +23,7 @@
 <h1>This is the Circuit Diagram</h1>
 <div><img src="images/circuit_diagram.jpg" style="width=70vw;height=40vh"></div>
 
-<div><img src="images/esp.jpg" style="width=50vw;height=40vh" ></div>
+
 
 
 <h1>DownLoad libraries</h1>
