@@ -2,6 +2,7 @@
 <h1>Note:this code works with all esp compatable boards</h1>
 <br>
 |S.N.	|COMPONENTS NAME|QUANTITY|	
+|-----|---------------|--------|
 1	|NodeMCU ESP8266 Board	|1	|
 2	|BMP180 Sensor	|1|	
 3	|DHT11 Sensor	|1	|
