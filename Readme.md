@@ -1,6 +1,6 @@
 <h1>This is a project about making webserver using Esp board </h1>
 <h1>Note:this code works with all esp compatable boards</h1>
-<br>
+
 | Name          | Quantity |
 | ------------- | ------------- |
 | NodeMCU ESP8266 Board  | 1  |
@@ -10,7 +10,7 @@
 | Resistor 4.7K| 2  |
 | Rain Sensor FC-37  |1 |
 | 	Breadboard  | 1  |
-<br>
+
 <a href="https://components101.com/sensors/dht11-temperature-sensor"><h2>Learn about DHT 11 sensor</h2></a>
 <br>
 <a href="https://www.electronicshub.org/getting-started-with-nodemcu/"><h2>Get started with ESP</h2></a>
