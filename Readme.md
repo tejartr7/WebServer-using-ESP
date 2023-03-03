@@ -11,7 +11,7 @@
 | Rain Sensor FC-37  |1 |
 | 	Breadboard  | 1  |
 
-<a href="https://components101.com/sensors/dht11-temperature-sensor"><h2>Learn about DHT 11 sensor</h2></a>
+<h2><a href="https://components101.com/sensors/dht11-temperature-sensor">Learn about DHT 11 sensor</a></h2>
 
 <a href="https://www.electronicshub.org/getting-started-with-nodemcu/"><h2>Get started with ESP</h2></a>
 
