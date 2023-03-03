@@ -1,15 +1,15 @@
 <h1>This is a project about making webserver using Esp board </h1>
 <h1>Note:this code works with all esp compatable boards</h1>
 <br>
-|S.N.	|COMPONENTS NAME|QUANTITY|	
-|-----|---------------|--------|
-1	|NodeMCU ESP8266 Board	|1	|
-2	|BMP180 Sensor	|1|	
-3	|DHT11 Sensor	|1	|
-4	|Rain Sensor FC-37|1|	
-5	|Resistor 4.7K	|2	|
-6	|Connecting Wires	|10|
-7	|Breadboard	|1|
+| Name          | Quantity |
+| ------------- | ------------- |
+| NodeMCU ESP8266 Board  | 1  |
+|BMP180 Sensor| 1  |
+| DHT11 Sensor  | 1  |
+| Connecting Wires  | 10  |
+| Resistor 4.7K| 2  |
+| Rain Sensor FC-37  |1 |
+| 	Breadboard  | 1  |
 <br>
 <a href="https://components101.com/sensors/dht11-temperature-sensor"><h2>Learn about DHT 11 sensor</h2></a>
 <br>
